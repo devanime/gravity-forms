@@ -1,0 +1,10 @@
+{
+  "name": "devanime/gravityforms",
+  "description": "Form builder and management for all websites.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "require": {
+    "php": ">=5.3",
+    "composer/installers": "~1.0"
+  }
+}
